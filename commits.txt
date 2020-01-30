@@ -1,0 +1,23 @@
+﻿commit 61f0158041e9c3ab9a50e1caaf37bf785f868880 (HEAD -> master)
+Author: Brayan Castillo <bhcastillo@uniboyaca.edu.co>
+Date:   Wed Jan 29 09:21:59 2020 -0500
+
+    creacion menú
+
+commit 7816bf46e19a6eec31bc30b7ec3c7a33faddeadc
+Author: Brayan Castillo <bhcastillo@uniboyaca.edu.co>
+Date:   Wed Jan 29 09:19:27 2020 -0500
+
+    perfil
+
+commit ec55386850431447d60cac89b912ba62ed6512e7
+Author: Brayan Castillo <bhcastillo@uniboyaca.edu.co>
+Date:   Wed Jan 29 09:16:55 2020 -0500
+
+    subi foto perfil y nombre
+
+commit c8c53feb05c2bceb91273e2ae984d2b53d9cd25b
+Author: Brayan Castillo <bhcastillo@uniboyaca.edu.co>
+Date:   Wed Jan 29 09:11:00 2020 -0500
+
+    Estos son los archivos base de proyecto
